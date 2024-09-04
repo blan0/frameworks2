@@ -1,3 +1,3 @@
 cmdkey/delete git:https://github.com
 git config --global user.name "joao blan"
-git config --global user.emil "joao.neto@estudnte.ifms.edu.br"
+git config --global user.email "joao.neto@estudnte.ifms.edu.br"
